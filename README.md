@@ -6,13 +6,13 @@ Each folder will have differant ways to bypass RouterLimits
 
 - [x] VPN 
 
-- [ ] Mac Adress Spoofing
+- [ ] Mac Address Spoofing
 
 - [ ] VPN + VPN bypasser with website spoofer
 
 - [ ] PacketFlood
 
-- [] CREATE A PR OR AN ISSUE IF YOU HAVE AN IDEA
+- [ ] CREATE A PR OR AN ISSUE IF YOU HAVE AN IDEA
 
 
 
