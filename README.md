@@ -12,6 +12,8 @@ Each folder will have differant ways to bypass RouterLimits
 
 - [ ] PacketFlood
 
+- [ ] Dns
+
 - [ ] CREATE A PR OR AN ISSUE IF YOU HAVE AN IDEA
 
 
